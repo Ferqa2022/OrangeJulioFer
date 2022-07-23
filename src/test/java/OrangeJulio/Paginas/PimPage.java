@@ -17,7 +17,11 @@ public class PimPage {
 	public void llegarAddEmployee() {
 		buttonPages.btnPim();
 		buttonPages.btnAdd();
-		
+			
 	}
 
+public void prueba() {
+		
+		
+	}
 }
