@@ -27,6 +27,7 @@ public class LoginPage {
 		PageFactory.initElements(driver, this);
 		this.buttonPages = new ButtonPages(driver);
 		
+		
 	}
 	//funcionalidad logueo
 	public void ingresarLogin(String userName, String pass) {
